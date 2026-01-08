@@ -1,4 +1,4 @@
-# yamls
+# info-util
 
 ## 📌 Descripción
 Este proyecto forma parte de mi portafolio personal.  
